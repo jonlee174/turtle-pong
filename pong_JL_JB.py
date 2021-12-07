@@ -1,5 +1,3 @@
-# Jonathan Lee and Joshua Burton
-
 import turtle as trtl
 import random as rand
 import pyglet
