@@ -4,11 +4,11 @@ import pyglet
 
 wn = trtl.Screen()
 wn.setup(width=.55, height=.475)
-paddle_shape = 'pong_paddle.gif'
-ball_shape = 'pong_ball.gif'
-background = 'pong_background.gif'
-pause_button = 'pause_button.gif'
-hit_sound = 'pong_hit.mp3'
+paddle_shape = 'media/pong_paddle.gif'
+ball_shape = 'media/pong_ball.gif'
+background = 'media/pong_background.gif'
+pause_button = 'media/pause_button.gif'
+hit_sound = 'media/pong_hit.mp3'
 
 wn.addshape(paddle_shape)
 wn.addshape(ball_shape)
